@@ -1,0 +1,21 @@
+.mini_sidebar {
+  margin: 5px;
+}
+
+.mini_sidebar_row {
+  text-align: center;
+}
+
+.mini_sidebar_row > div {
+    padding: 2px;
+}
+
+.mini_sidebar_row :hover {
+    background-color: #f9f9f9;
+}
+
+.mini_sidebar_row > div > p {
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}

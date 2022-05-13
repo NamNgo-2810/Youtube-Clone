@@ -1,0 +1,33 @@
+.video_page_body {
+    display: flex;
+    background-color: #f9f9f9;
+    padding: 5px;
+}
+
+.video_container {
+    flex: 0.7;
+    margin-top: 10px;
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.video_statistics {
+    display: flex;
+    justify-content: space-between;
+}
+
+.video_view_count {
+    margin-left: 5px;
+    font-size: 18px;
+}
+
+.video_actions {
+    display: flex;
+    justify-content: space-between;
+}
+
+.video_icon {
+    margin: 10px;
+    font-size: 16px;
+    text-align: center;
+}
